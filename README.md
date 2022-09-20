@@ -1,7 +1,7 @@
 # CMR-imageDataAlignment
 Alignment of Cardiac MRI data to a common reference
 
-**Instructions for scripts for post-processing / spatiotemporal alignment / population statistics on cardiac MRI data (delayed enhancement).**
+**Instructions for scripts for post-processing & spatial alignment on cardiac MRI data (delayed enhancement).**
 
 Release 1.0 = MATLAB scripts
 
@@ -12,7 +12,7 @@ Date: September, 2022
 ------------------------------------------------------------------------------------------------------------------------
 **COPYRIGHT NOTICE:**
 
-Post-processing / spatiotemporal alignment / population statistics on cardiac MRI data (delayed enhancement)
+Post-processing & spatial alignment on cardiac MRI data (delayed enhancement)
 (c) 2022 Nicolas Duchateau
 
 This code is made open-access. Comments and bug reports are welcome, as well as feedback on its possible improvements.
