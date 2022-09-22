@@ -1,6 +1,6 @@
 Code for the alignment of cardiac MRI data to a common reference, available under the license [CeCILL-B](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html)
 
-# post-processing & spatial alignment on cardiac MRI data (delayed enhancement, segmentations from CVI42 software).**
+# post-processing & spatial alignment on cardiac MRI data (delayed enhancement, segmentations from CVI42 software).
 
 Release 1.0 = MATLAB scripts
 
