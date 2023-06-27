@@ -6,7 +6,7 @@ Release 1.0 = MATLAB scripts
 
 Author: Nicolas Duchateau (nicolas.duchateau@creatis.insa-lyon.fr)
 
-Date: September, 2022
+Date: June, 2023
 
 Links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.fr/~duchateau/#publications
 
@@ -15,7 +15,9 @@ Links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.
 
 This code is made open-access. Comments and bug reports are welcome, as well as feedback on its possible improvements.
 
-Published reports of research using this code (or a modified version) may cite the following article that describes the method: [REF to be added upon acceptance]
+Published reports of research using this code (or a modified version) may cite the following article that describes the method: 
+*Duchateau N, Viallon M, Petrusca L, Clarysse P, Mewton N, Belle L, Croisille P. Frontiers in Cardiovascular Medicine 2023;10.* 
+https://doi.org/10.3389/fcvm.2023.1136760
 
 ------------------------------------------------------------------------------------------------------------------------
 **ARCHIVE CONTENT:**
