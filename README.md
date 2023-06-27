@@ -23,8 +23,6 @@ https://doi.org/10.3389/fcvm.2023.1136760
 ------------------------------------------------------------------------------------------------------------------------
 **ARCHIVE CONTENT:**
 
-Code and demo data will be made accessible upon acceptance.
-
 ### CODE:
 
 **a1_readCVI42Contours.m** = extract data from Dicom files and/or post-process the image and contours to be stored as .mat files
@@ -33,7 +31,8 @@ Code and demo data will be made accessible upon acceptance.
 
 **a3_alignData.m** = transport the imaging and segmentation data from each subject's anatomy to a common reference geometry
 
-### DATA:
+### DATA: 
+https://www.creatis.insa-lyon.fr/~duchateau/DOWNLOADS/DEMOS/Duchateau_FrontCV_2023/
 
 **Excel file** = pre-identified subfolders to the data, and IDs of the basal and apical slices
 
